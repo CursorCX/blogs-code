@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Welcome to Cursor's Blogs
+title: Hello Cursor
 subtitle:
 description: Record Cursor sysop info
-author: xingc
+author: cursor
 language: Chinese
-timezone: CST
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: light
+theme: clean-blog
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

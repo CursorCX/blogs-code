@@ -6,9 +6,9 @@ category:
 tags:
 - 运维
 ---
-##1. dnsmasq
-##2. 引导方式
-##3. 结合consul
-##4. 实现自动话安装
+## 1. dnsmasq
+## 2. 引导方式
+## 3. 结合consul
+## 4. 实现自动话安装
 
 
